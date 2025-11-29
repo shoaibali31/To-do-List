@@ -1,0 +1,15 @@
+{
+    "name": "Todo List",
+    "short_name": "Todo",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#40E0D0",
+    "icons": [
+        {
+            "src": "https://i.ibb.co/cK9V5M4b/i-OS-style-app-icon-with-a-turquoise-circular-shape-and-a-clean-white-checkmark-in-the-center-Smooth.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
